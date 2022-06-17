@@ -1,8 +1,8 @@
 version: '3'
 services:  
   
-      # the KnowRob container
-  jupyter_knowrob:
+      # the KG container
+  jupyter_kg:
     image: "michaelakuempel/jupyter-kg"
     container_name: jupyter_kg
     network_mode: host
