@@ -5,7 +5,6 @@ services:
   jupyter_knowrob:
     image: "michaelakuempel/jupyter-kg"
     container_name: jupyter_kg
-    depends_on:
     network_mode: host
     volumes:
       - ./lectures:/lectures
