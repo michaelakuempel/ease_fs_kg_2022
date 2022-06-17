@@ -2,7 +2,7 @@
 
 ## Start-Up
 
-Please install docker and docker-compose to your system. Here is the link for windows: https://hub.docker.com/editions/community/docker-ce-desktop-windows/
+Please install docker and docker-compose to your system. Here is the link for windows: https://hub.docker.com/editions/community/docker-ce-desktop-windows/ \\
 Also install git (for windows: install git on windows: https://gitforwindows.org/)
 
 To install and start the EASE Fall School 2022 Jupyer-Lab and run the notebooks follow these steps:
