@@ -7,11 +7,11 @@ Also install git (for windows: install git on windows: https://gitforwindows.org
 
 To install and start the EASE Fall School 2022 Jupyer-Lab and run the notebooks follow these steps:
 
-1. Clone this repository: `https://github.com/michaelakuempel/ease_fs_kg_2022.git
-2. move into the directory: cd ease_fs_kg_2022`
-4. Run `docker-compose up`
+1. Clone this repository using git (e.g. git bash): git clone`https://github.com/michaelakuempel/ease_fs_kg_2022.git
+2. in a terminal, move into the directory: cd ease_fs_kg_2022`
+4. in the terminal, run `docker-compose up`
 5. Wait till the container is ready
-6. Open the Jupyter-Lab using the link shown in your terminal
+6. Open the Jupyter-Lab using the link shown in your terminal (something like http://127.0.0.1:8888/lab?token=...), it should open a tab in your browser
 7. if you get a "token required" website -> disable cookies in your browser
 
 ## Run the exercises
