@@ -1,9 +1,0 @@
-version: '1'
-services:  
-  
- jupyter_knowrob:
-    image: "sasjonge/jupyter-knowrob"
-    container_name: jupyter_knowrob
-    network_mode: host
-    volumes:
-      - ./lectures:/lectures
