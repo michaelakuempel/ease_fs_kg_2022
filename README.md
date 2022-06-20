@@ -5,12 +5,12 @@
 Please install docker and docker-compose to your system. Here is the link for windows: https://hub.docker.com/editions/community/docker-ce-desktop-windows/ <br>
 Optional: Also install git (for windows: install git on windows: https://gitforwindows.org/)
 
-# Check if docker is installed correctly
+## Check if docker is installed correctly
 
 To check if docker is installed correctly, in your shell run `docker run hello-world`
 You will get a hello message if everything was installed correctly
 
-# Start up jupyter
+## Start up jupyter
 
 To start up jupyter, we will use docker to start a standard jupyter notebok
 1. In your shell, run `docker run -p 8888:8888 jupyter/scipy-notebook`
@@ -20,7 +20,7 @@ To start up jupyter, we will use docker to start a standard jupyter notebok
 
 Now you should have a blank jupyter notebook.
 
-# Start lectures
+## Start lectures
 
 Now let's start with the lectures!
 
