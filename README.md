@@ -1,4 +1,4 @@
-# EASE Fall School 2021 - NEEMs and KnowRob
+# EASE Fall School 2021 - Web Knowledge Acquisition
 
 ## Start-Up
 
