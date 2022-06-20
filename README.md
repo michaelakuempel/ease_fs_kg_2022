@@ -5,6 +5,8 @@
 Please install docker and docker-compose to your system. Here is the link for windows: https://hub.docker.com/editions/community/docker-ce-desktop-windows/ <br>
 Optional: Also install git (for windows: install git on windows: https://gitforwindows.org/)
 
+set your environment variables (e.g. to `C:\Users\user\.local\lib\python3.8\site-packages` for pip and `C:\Users\user\.local\lib\python3.10\site-packages` for additional packages
+
 ## Check if docker is installed correctly
 
 To check if docker is installed correctly, in your shell run `docker run hello-world`
