@@ -1,10 +1,9 @@
-version: '3'
+version: '1'
 services:  
   
-      # the KG container
-  jupyter_kg:
-    image: "michaelakuempel/jupyter-kg"
-    container_name: jupyter_kg
+ jupyter_knowrob:
+    image: "sasjonge/jupyter-knowrob"
+    container_name: jupyter_knowrob
     network_mode: host
     volumes:
       - ./lectures:/lectures
