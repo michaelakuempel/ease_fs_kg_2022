@@ -32,7 +32,7 @@ We are going to use a SPARQL kernel in our lectures. To install this, please fol
 
 If you now switch to the launcher start page, in addition to the python kernel you should now see a SPARQL kernel installed.
 
-[![](SPARQLkernel.png)]
+<img src="SPARQLkernel.png" width="600" alt="pic of SPARQL kernel"/>
 
 ## Start lectures
 
@@ -45,7 +45,8 @@ or
 
 In your jupyter notebook, please upload all lecture files
 
-[![](upload_button.png)]
+<img src="upload_button.png" width="300" alt="pic of upload button"/>
+
 
 ## Run the exercises
 
