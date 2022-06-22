@@ -22,6 +22,18 @@ To start up jupyter, we will use docker to start a standard jupyter notebok
 
 Now you should have a blank jupyter notebook.
 
+## Install SPARQL kernel
+
+We are going to use a SPARQL kernel in our lectures. To install this, please follow these steps:
+
+1. In your jupyter notebook, open the terminal
+2. in the terminal, run `pip install sparqlkernel`
+3. Then run `jupyter sparqlkernel install --user`
+
+If you now switch to the launcher start page, in addition to the python kernel you should now see a SPARQL kernel installed.
+
+[![](SPARQLkernel.png)]
+
 ## Start lectures
 
 Now let's start with the lectures!
@@ -32,6 +44,8 @@ or
 - download the lecture files directly
 
 In your jupyter notebook, please upload all lecture files
+
+[![](upload_button.png)]
 
 ## Run the exercises
 
