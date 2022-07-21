@@ -24,7 +24,7 @@ Now you should have a blank jupyter notebook.
 
 ## Install SPARQL kernel
 
-We are going to use a SPARQL kernel in our lectures. To install this, please follow these steps:
+We are going to use a SPARQL kernel in our lectures (starting at Tutorial 3, Tutorials 1 and 2 can be used without it). To install this, please follow these steps:
 
 1. In your jupyter notebook, open the terminal
 2. in the terminal, run `pip install sparqlkernel`
@@ -47,13 +47,11 @@ In your jupyter notebook, please upload all lecture files
 
 <img src="upload_button.png" width="300" alt="pic of upload button"/>
 
+For Tutorials 1 and 2 you can use the python kernel, for Tutorials 3 and up you will need the SPARQL kernel.
+
 
 ## Run the exercises
 
-To open the notebooks you can choose them from the left sidebar. We recommend the following steps before running the exercises:
-
-1. Open init.ipynb and follow the instructions to have everything initialized.
-2. Have a look at tut0-jupyter-knowrob.ipynb (and if interested tut1-prolog.ipynb and tut2-semwebb.ipynb)
-
-you can find the first exercise in fs-ex1-robot-structure.ipynb  and the second exercise in fs-ex2-episode-structure.ipynb
+To open the notebooks you can choose them from the left sidebar. 
+You can find the first exercise in Tutorial1_rdflib.ipynb, its Solution in Solution_Tut1.ipynb the second exercise in Tutorial2_owlready.ipynb etc.
 
