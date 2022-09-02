@@ -24,8 +24,7 @@ Now you should have a blank jupyter notebook.
 
 ## Install SPARQL kernel
 
-<i>note: this step is only needed for Tutorials 3 and up where you query knowledge graphs</i>
-We are going to use a SPARQL kernel in our lectures (starting at Tutorial 3, Tutorials 1 and 2 can be used without it). To install this, please follow these steps:
+We are going to use a SPARQL kernel in our lectures (<i>starting at Tutorial 3, Tutorials 1 and 2 can be used without it</i>). To install this, please follow these steps:
 
 1. In your jupyter notebook, open the terminal
 2. in the terminal, run `pip install sparqlkernel`
