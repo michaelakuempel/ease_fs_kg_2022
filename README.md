@@ -53,5 +53,5 @@ For Tutorials 1 and 2 you can use the python kernel, for Tutorials 3 and up you 
 ## Run the exercises
 
 To open the notebooks you can choose them from the left sidebar. 
-You can find the first exercise in Tutorial1_rdflib.ipynb, its Solution in Solution_Tut1.ipynb the second exercise in Tutorial2_owlready.ipynb etc.
+You can find the first exercise in Tutorial1_Create_rdflib.ipynb, its Solution in Solution_Tut1.ipynb the second exercise in Tutorial2_Create_owlready.ipynb etc.
 
